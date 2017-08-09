@@ -7,7 +7,6 @@
     };
     (function() {
     var d = document, s = d.createElement('script');
-
     s.src = '//{{theme.disqus_shortname}}.disqus.com/embed.js';
 
     s.setAttribute('data-timestamp', +new Date());
