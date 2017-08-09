@@ -4,6 +4,7 @@ menu:
   tags: Tags
   categories: Categories
   about: About
+  books: Books
 
 footer:
   powered: "Powered by %s"
