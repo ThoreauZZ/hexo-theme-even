@@ -16,5 +16,14 @@
     .post-time {
       color: $post-time-font-color;
     }
+    .post-visits {
+      display: inline-block;
+      font-size: 14px;
+      color: $post-meta-font-color;
+
+      &::before {
+        content: '·';
+      }
+    }
   }
 }

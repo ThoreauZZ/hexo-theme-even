@@ -36,3 +36,5 @@
 {% if not env.debug %}
   {% include "../_script/analytics.swig" %}
 {% endif %}
+{# LeanCloud Counter #}
+{% include "../_script/counter.swig"%}
